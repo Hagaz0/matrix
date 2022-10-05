@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/final.dir/s21_matrix_tests.cc.o CMakeFiles/final.dir/S21Matrix.cc.o  -o final  lib/libgtest.a -lpthread -lpthread 
